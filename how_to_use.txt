@@ -1,0 +1,6 @@
+Create a repository on your github.
+cd to new repository: >> git init
+git add blablabla
+git commit -m 'this is the comment'
+(maybe you need to >> git pull YOUR_URL  before uploading)
+git remote add YOUR_URL
